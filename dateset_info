@@ -1,0 +1,17 @@
+# Dataset Information
+
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Files Used:
+- customers.csv
+- orders.csv
+- order_items.csv
+- payments.csv
+- products.csv
+- sellers.csv
+- reviews.csv
+
+Dataset imported into SQL Server using SSMS Import Wizard.
