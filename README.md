@@ -68,27 +68,5 @@ This project builds a production-style e-commerce analytics system using SQL Ser
 - Primary keys and foreign keys
 - Star schema modeling
 
-## Folder Structure
-```text
-schema/                 Primary keys, foreign keys, validation scripts
-exploratory_queries/    Business KPI and analysis queries
-advanced_queries/       CTEs, window functions, ranking queries
-procedures/             Stored procedures
-views/                  Reporting views
-indexing/               Index creation scripts
-star_schema/            Dimension and fact table creation scripts
-screenshots/            ER diagrams and query result screenshots
-```
 
-## Suggested Screenshots to Add
-Add these screenshots manually from SSMS:
-1. Imported tables list
-2. OLTP ER diagram
-3. Star schema diagram
-4. Revenue by state query output
-5. Monthly revenue view output
-6. Execution plan before/after indexing
-
-## Resume Bullet
-Built a production-style e-commerce analytics platform using SQL Server with normalized OLTP tables, primary/foreign keys, star schema warehouse modeling, business KPI analysis, stored procedures, views, indexing, and advanced SQL analytics.
 
